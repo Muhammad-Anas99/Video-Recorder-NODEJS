@@ -4,8 +4,11 @@ body{
 h1{
     text-align: center;
 }
-video{
-    border-radius: 20px;
+div{
+    width: 250px;
+    border: 3px solid red;
+    padding: 20px;
+    border-radius: 15px;
 }
 button{
     width: 100%;
