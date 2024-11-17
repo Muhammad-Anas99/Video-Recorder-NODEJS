@@ -4,6 +4,9 @@ body{
 h1{
     text-align: center;
 }
+#user-video{
+    width: auto-fit;
+}
 button{
     width: 100%;
 }
